@@ -4,5 +4,5 @@
     "version": "0.0.1",
     "documentation": "https://example.com",
     "issue_tracker": "https://example.com",
-    "code_owners": ["@DanielVoogsgerd"],
+    "code_owners": ["@DanielVoogsgerd"]
 }
