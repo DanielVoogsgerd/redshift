@@ -1,5 +1,7 @@
 """
 Redshift for Home-Assistant.
+Code forked from the Flux Component in HomeAssistant Core (v2022.11.4)
+Original code and alterations licensed under the Apache v2.0 license
 Adapted to specify multiple setpoints
 
 The idea was taken from https://github.com/KpaBap/hue-flux/
